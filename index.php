@@ -7,6 +7,7 @@
     <title>Coba Remote Dari Git Ke Github</title>
 </head>
 <body>
-    
+    <h1>Hello World</h1>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quisquam id, autem sed illum fuga architecto deserunt nihil laborum debitis temporibus eum, perferendis, cumque quod maiores earum tempora nulla at consectetur?</p>
 </body>
 </html>
